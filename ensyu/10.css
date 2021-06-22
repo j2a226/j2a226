@@ -1,0 +1,25 @@
+@charset "UTF-8";
+p {
+    background-color: #eeeeee;
+    width: 360px;
+    height: 100px;
+}
+span {
+    /*display: block; */ /*コメントアウトを外してみると…*/
+    background-color: #0000ff;
+    color: #fff;
+    width: 180px; /*効いてない*/
+    height: 50px; /*効いてない*/
+  }
+.blue {
+    color: #0000ff;
+}
+.pink {
+    color: #ff00cc;
+}
+.bg {
+    background-color: #ffff00;
+}
+.marker {
+    background-color: #ff00cc;
+}
